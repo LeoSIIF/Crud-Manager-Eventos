@@ -1,0 +1,2 @@
+# Crud-Manager-Eventos
+O CRUD Manager é um sistema de gerenciamento de dados que permite realizar operações básicas de criação, leitura, atualização e exclusão (CRUD - Create, Read, Update, Delete) em quatro entidades principais: usuários, empresas, eventos e posts. Esse sistema é projetado para simplificar e agilizar a manipulação dessas informações, fornecendo uma interface intuitiva e funcional.
